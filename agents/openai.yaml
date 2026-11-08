@@ -1,0 +1,4 @@
+interface:
+  display_name: "Large PDF Evidence Indexer"
+  short_description: "Index and verify evidence pages in very large PDFs"
+  default_prompt: "Use $large-pdf-evidence-indexer to index this large PDF and locate evidence pages for my text."
