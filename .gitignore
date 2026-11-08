@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.pdf
+*.jsonl
+index_meta.json
+index-output/
+*.partial.jsonl
+rendered/
+.DS_Store
